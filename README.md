@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋🏽
+### You have reached Ajay Gupta
 
-<!--
-**ajaygco/ajaygco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- A passionate software engineer who crafts web, mobile and server-side apps.
+- I primarily work with JavaScript, React.js, React Native and Firebase.
+- I am currently working at [@bushel](https://github.com/bushel)
 
-Here are some ideas to get you started:
+#### Highlights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I created the [@paperpencilapp](https://github.com/paperpencilapp)
+
+#### I am open to
+
+- Contributing to open source libraries related to React or React Native
+- Work opportunities where I can expand my skills and grow
