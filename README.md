@@ -7,7 +7,7 @@
 
 #### Highlights
 
-- I created the [@paperpencilapp](https://github.com/paperpencilapp)
+- Working on an indie adventure - [@paperpencilapp](https://github.com/paperpencilapp)
 
 #### I am open to
 
